@@ -1,0 +1,5 @@
+secrets/
+venv/
+scshot.png
+token.json
+.env
